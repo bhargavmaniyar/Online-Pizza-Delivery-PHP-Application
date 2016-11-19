@@ -1,0 +1,23 @@
+@charset "utf-8";
+/* CSS Document */
+*{ font-size:18px; font-style:normal}
+.addform { background-color:#C30; height:auto;width:275px;text-align:center; border:#C30; margin:10px; padding:5px}
+
+.addform input{ corner-radius:5px; padding:10px; height:25px; width:10px; margin-top:5px; border-radius:5px}
+.addform textarea{ corner-radius:5px; padding:10px; height:50px ; width:10px ;border-radius:5px; margin-top:5px; resize:none}
+.addform select{ height:25px; width:10px; border-radius:5px;}
+.submitme { width:250px; height:30px; margin-bottom:10px; margin-top:10px; padding:5px; cursor:pointer; }
+
+
+
+
+
+
+
+.cotact_form { width:300px; height:auto; background-color:#FFF;  text-align:center; margin:30px auto; padding:5px;  }
+.form_head { width:95%; background-color:#0CF; color:#FFF; padding:8px; text-align:left; }
+.cotact_form input { width:100px; height:30px; padding:5px; margin-top:5px; border-radius:5px; }
+.cotact_form textarea { width:10px; height:80px; padding:5px; resize:none; margin-top:5px; border-radius:5px; }
+
+.submit11 { width:250px; height:30px; background-color:#0C6; color:#FFF; margin:auto; margin-bottom:10px; margin-top:10px; line-height:35px; padding:5px; cursor:pointer; }-->
+

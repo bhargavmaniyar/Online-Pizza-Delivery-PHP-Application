@@ -1,0 +1,27 @@
+html{ height:100%; }
+* { font-size:18px; padding:0; margin:0; }
+
+body { background-image:url(../images/1920x1080.jpg); }
+
+.wrapper{ background-color:#9CF; max-width:1024px; min-height:600px; margin:auto;}
+.header{ width:100%; height:80px;}
+.logo{ float:left; margin-left:150px; }
+.logo img{ width:150px; height:70px; }
+
+.online_order { float:right; cursor:pointer; margin-right:150px } 
+.online_order img { width:100px; height:70px;  }
+
+
+.cotact_form { width:300px; height:auto; background-color:#FFF;  text-align:center; margin:30px auto; padding:5px; border-bottom-style:double }
+.form_head { width:95%; background-color:#C30; color:#FFF; padding:8px; text-align:left; }
+.cotact_form input { width:250px; height:30px; padding:5px; margin-top:5px; border-radius:10px; }
+.cotact_form textarea { width:250px; height:80px; padding:5px; resize:none; margin-top:5px; border-radius:10px; }
+.submit { width:250px; height:30px; background-color:#C30; color:#FFF; margin:auto; margin-bottom:10px; margin-top:10px; line-height:35px; padding:5px; cursor:pointer; corner-radius:5px;}
+
+
+.main { text-align:center; }
+
+.first { display:inline-block; vertical-align:top; }
+.second { display:inline-block;   width:300px;}
+.second img { width:550px; height:400px; cursor:auto}
+.second-img{ margin-top:30px;}

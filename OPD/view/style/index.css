@@ -1,0 +1,59 @@
+html { height:100%; }
+
+
+body { }
+.wrapper { width:100%; height:100%; background-color:#C30; max-width:1024px; min-height:600px; margin:auto;}
+.header  { width:100%; height:80px; background-color:#600; }
+
+.wrapper_menu { width:100%; height:100%; background-color:#FFF; max-width:1024px; min-height:600px; margin:auto;}
+.header_menu  { width:100%; height:80px; background-color:#FFF; }
+.logo { float:left; }  
+.online_order { float:right; cursor:pointer; } 
+
+.logo img { width:160px; height:80px;  }
+.online_order img { width:100px; height:70px;  }
+
+.footer{ width:100%; height:80px; }
+.online_orderr{ float:left; cursor:pointer;}
+.online_orderr img{ width:100px; height:70px }
+.cell{ float:right; cursor:pointer;}
+.cell img{ width:100px; height:70px}
+
+.menu_container { width:100%; height:auto; text-align:center; position:relative;}
+
+.back_img {  width:100%; height:500px; }
+
+.home { position:absolute; top:350px; left:30px; width:225px; height:125px; transform:rotate(-10deg); -webkit-transform:rotate(-10deg); cursor:pointer; }
+
+.home:hover { transform:scale(1.2); -webkit-transform:scale(1.2); -webkit-transform:scale(1.2); }
+
+.aboutus{ position:absolute; top:350px; left:800px; width:125px; height:125px; tronsform:rotate(-20deg); -webkit-transform:rotate(-20deg); cursor:pointer;}
+.aboutus:hover { transform:scale(1.2); -webkit-transform:scale(1.2); -webkit-transform:scale(1.2); }
+
+.contactus{ position:absolute; top:350px; left:650px; width:130px; height:130px; tronsform:rotate(20deg); -webkit-transform:rotate(20deg); cursor:pointer;}
+.contactus:hover { transform:scale(1.2); -webkit-transform:scale(1.2); -webkit-transform:scale(1.2); }
+
+.location{ position:absolute; top:350px; left:500px; width:130px; height:125px; tronsform:rotate(10deg); -webkit-transform:rotate(10deg); cursor:pointer;}
+.location:hover { transform:scale(1.2); -webkit-transform:scale(1.2); -webkit-transform:scale(1.2); }
+
+.menu{ position:absolute; top:350px; left:315px; width:150px; height:150px; tronsform:rotate(30deg); -webkit-transform:rotate(30deg); cursor:pointer;}
+.menu:hover { transform:scale(1.2); -webkit-transform:scale(1.2); -webkit-transform:scale(1.2);}
+
+.cotact_form { width:300px; height:auto; background-color:transparent;  text-align:center; margin:30px auto; padding:5px;  }
+.form_head { width:95%; background-color:#0CF; color:#FFF; padding:8px; text-align:left;  border-radius: 10px;box-shadow:10px 10px 5px #888888;font-family: fantasy;font-weight: bold }
+.cotact_form input { width:150px; height:30px; padding:5px; margin-top:5px; border-radius:5px;box-shadow:10px 10px 5px #888888; }
+.cotact_form textarea { width:150px; height:80px; padding:5px; resize:none; margin-top:5px; border-radius:5px; box-shadow:10px 10px 5px #888888;}
+.submit { width:100px; height:20px; background-color:red; color:#FFF; margin:auto; margin-bottom:10px; margin-top:10px; line-height:19px; font-weight: bold; font-family: sans-serif; padding:5px; cursor:pointer; border-radius: 40px;box-shadow:10px 10px 5px #888888; }
+.cotact_form select { width:150px; height:30px; padding:5px; margin-top:5px; border-radius:5px; box-shadow:10px 10px 5px #888888;   }
+::-webkit-placeholder { color:#000; }
+
+
+
+
+/*  second page */
+
+.main { text-align:center; }
+
+.first { display:inline-block; vertical-align:top; padding-right:50px; }
+.second { display:inline-block;   width:300px;}
+.second img { width:500px; height:350px; margin-top:30px; ;padding-left:50px;}
